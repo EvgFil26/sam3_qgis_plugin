@@ -1,0 +1,20 @@
+[general]
+name=SAM3 Segmentation
+qgisMinimumVersion=3.28
+description=SAM3-based semantic segmentation and vectorization tool
+version=0.1
+author=Evg
+email=you@example.com
+
+about=Инструмент сегментации спутниковых снимков на основе SAM3 (facebook/sam3): текстовые и визуальные (box) промпты, экспорт результатов в векторные слои проекта.
+
+tracker=https://github.com/EvgFil26/sam3_qgis_plugin/issues
+repository=https://github.com/EvgFil26/sam3_qgis_plugin
+
+experimental=True
+deprecated=False
+
+tags=segmentation, machine learning, SAM, vectorization, deep learning
+
+homepage=https://github.com/EvgFil26/sam3_qgis_plugin
+category=Vector
